@@ -14,7 +14,7 @@ This is a SwiftUl app that uses the Meta-Llama-3-8B-Instruct-GGUF model to gener
 * 
 **Getting Started**
   
-1. Clone the repository: *git clone https://github.com/your-username/LMStudio-mac-app.git*
+1. Clone the repository: *git clone https://github.com/ambas/LMStudio-mac-app.git*
 2. Open the project in Xcode: 'open LMStudio-mac-app.xcodeproj*
 3. Run the app: 'Cmd + R'
 
