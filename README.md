@@ -6,15 +6,6 @@ A rhyming answer, I shall provide with flair!
 
 This is a SwiftUl app that uses the Meta-Llama-3-8B-Instruct-GGUF model to generate responses. It allows users to input a prompt and receive a response in rhyme.
 
-**Code Styling Issues**
-
-There are **4** messages related to code styling that can be fixed by an auto code formatter:
-1. Indentation (consistent spacing)
-2. Line breaks (consistent line wrapping)
-3. Whitespace (trailing spaces and tabs)
-4. Quotes (consistent use of double quotes or backticks)
-These formatting issues can be easily resolved with a code beautifier or a linter!
-
 **Features**
 
 * Input prompt
